@@ -1,0 +1,11 @@
+#calculo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    width: 100px;
+    margin-top: 10px;
+}
